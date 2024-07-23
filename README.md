@@ -1,2 +1,2 @@
-# enoman_cicd
+# cicd
 試験用 CICD リポジトリ
