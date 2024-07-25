@@ -1,0 +1,2 @@
+- name: display data1
+  shell: echo {{ VAR_test1 }} >> /tmp/test.txt
